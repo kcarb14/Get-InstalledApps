@@ -42,3 +42,7 @@ This currently reads the **current user's** HKCU hive only — it doesn't enumer
 ## License
 
 MIT — free to use, modify, and share. Provided "as is", without warranty.
+
+## More tools
+
+This is one of a set of PowerShell tools I use for Windows admin work. I've packaged the full set into a single module here: https://ittechtoolkit.gumroad.com/l/fihgi
